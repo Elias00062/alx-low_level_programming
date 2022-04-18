@@ -1,12 +1,14 @@
 #include "main.h"
-/**
- * _isupper - Checks for uppercase character
- *
- * Description: Check character
- * @c: Character
- * Return: Integer
- *
- */
+#include <stdio.h>
+  2 /**
+  3  * _isupper - Checks for uppercase character
+  4  *
+  5  * Description: Check character
+  6  * @c: Character
+  7  * Return: Integer
+  8  *
+  9  */
+
 int _isupper(int c)
 {
 
